@@ -1,2 +1,0 @@
-onsets_sec,offsets_sec,Duration_call,Call Number,F0 Mean,F0 Std,F0 Skewness,F0 Kurtosis,F0 Bandwidth,F0 1st Order Diff,F0 Slope,F0 Mag Mean,F1 Mag Mean,F2 Mag Mean,F1-F0 Ratio,F2-F0 Ratio,Spectral Centroid Mean,Spectral Centroid Std,RMS Mean,RMS Std,Slope,Attack_magnitude,Attack_time
-7.596235827664407,7.637823129251709,0.04158730158730162,2,,,,,,,,,,,,,14184.937959171519,6276.762428922214,0.00034366906,6.280082e-05,0.0756348844664143,0.001576155528903282,0.020839002267573695
